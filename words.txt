@@ -1,0 +1,7 @@
+american
+captain
+dictionary
+fish
+hangman
+letter
+list
